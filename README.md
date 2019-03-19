@@ -1,2 +1,2 @@
 # LivspaceHack
-Personality matching and image segmentation
+Image segmentation and Personality matching
